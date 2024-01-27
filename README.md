@@ -2,8 +2,11 @@
 Added branch protections for main. Main requires a pull request to commit to it.
 
 ## Guidelines
-### Project
-
+### Project Options 
+* New machine learning algorithm.
+* Application of an algorithm to a dataset in a way that haven’t been done before.
+* Evaluating some existing algorithms in detail.
+* Compare the performance of several algorithms on the same dataset.
 ### Datasets
 Datasets **must be publicly available** and must not involve any restrictions
 
