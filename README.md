@@ -30,3 +30,6 @@ The datasets must be unrestricted, meaning it is available for immediate downloa
 
 ## Time Tracking 
 We can use a google sheet shared in the discord and occasionally stored here.
+
+## Using Jutyper Notebook
+Make sure to put things in functions, any variable not in a function scope is essentially global. This can make debugging a pain and accident variable ovewrites in future code blocks. Not to mention the overhead.
