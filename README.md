@@ -32,4 +32,4 @@ The datasets must be unrestricted, meaning it is available for immediate downloa
 We can use a google sheet shared in the discord and occasionally stored here.
 
 ## Using Jutyper Notebook
-Make sure to put things in functions, any variable not in a function scope is essentially global. This can make debugging a pain and accident variable ovewrites in future code blocks. Not to mention the overhead.
+Make sure to use function scopes. any variable not in a function scope is essentially global. This can make debugging a pain, lead to accidental variable overwrites on subsequent code blocks and a large overhead.
