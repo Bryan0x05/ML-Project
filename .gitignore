@@ -1,0 +1,3 @@
+# To add file you don't to be pushed to get git
+# Add them to a newline here as "*filename" to ignore all files of that name
+# Doing "filename/" will ignore all files in said directory
